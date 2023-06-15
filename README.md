@@ -3,7 +3,7 @@
 ## Privacy Policy 
 SpringChickens built the WanderPets app as a Free app. This SERVICE is provided by SpringChickens at no cost and is intended for use as is.
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 ### Information Collection and Use
 This app uses HealthKit to get your step count and movement distances to display in the app. This data is only stored on your device and is not collected by us in any way. 
