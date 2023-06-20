@@ -16,6 +16,10 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 This policy is effective as of 6/15/2023.  
 
+### Medical and Health Disclaimer
+SpringChickens does not offer personal health or medical advice. You should consult your healthcare provider before starting any exercise, fitness, or wellness program. If you’re facing a medical emergency, call your local emergency services immediately or visit the nearest emergency room or urgent care center.
+
+
 ### Contact Us
 If you have any questions or suggestions about this Privacy Policy, contact us at WanderPetsInfo@gmail.com.
 
